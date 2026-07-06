@@ -1049,7 +1049,7 @@ SOFTWARE.
 📊 Statistics
 
 · Total Functions: 500+
-· Lines of Code: 1000+
+· Lines of Code: 4000+
 · Categories: 8 major categories
 · Dependencies: 0 (only standard library)
 · Platform Support: Cross-platform (Windows, Linux, macOS)
@@ -1065,18 +1065,10 @@ SOFTWARE.
 
 ---
 
-📞 Contact & Support
-
-· Issues: GitHub Issues
-· Discussions: GitHub Discussions
-· Email: your.email@example.com
-
----
-
 ⭐ Star the Repository
 
 If you find this library useful, please consider starring the repository on GitHub!
 
 ---
 
-Made with ❤️ for the C++ and mathematics communities
+Made with Ai<(it's)> Ai for the C++ and mathematics communities
